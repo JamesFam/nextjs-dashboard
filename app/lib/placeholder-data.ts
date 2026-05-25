@@ -46,6 +46,12 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: 'c71e4f93-2d68-4ab5-9f2c-a8473e1d6b50',
+    name: 'Thien Pham',
+    email: 'thienpham@gmail.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
